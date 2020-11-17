@@ -1,0 +1,38 @@
+***************************	SPACE INVADERS		***************************
+
+Dévelloppés par :
+	 - Philippe CHARRAT
+	 - Lucie DOLE 
+
+Langage : Python 3.1
+
+Bibliothèque nécessaires : 
+	- Tkinter 
+	- tkMessageBox
+	- random
+
+fichiers nécessaires 
+	- Images au format ppm
+	- easteregg.py
+	- invader.py
+	- enregistrement.txt
+
+Ce programme est placé sous la licence CC BY-NC Pas d’Utilisation Commerciale
+
+Ce programme a été réalisé dans le cadre d'un module Python dans le cadre de nos études
+à CPE Lyon.  
+
+Le jeux est un space invaders avec nombreux bonus tel que des vaisseaux bonus, easter eggs, ...
+Avant de lire le code, il est fortement conseillés d'essayer le jeux ! 
+
+A Noté qu'il existe des points à améliorer : 
+	- Gestion des images : pour des raisons de simplicité, nous avons utilisé des ppm.  
+	- Une non-modulation du projet
+  - Nous avons laissé le points psd pour générer les images de vaisseaux, si vous souhaiter modifier les images.
+  - Utilisation d'une base de données pour gérer les joueurs.
+  - Modifier et étoffer le shop.
+  - Ajouter des textures sur les murs.
+
+****************************************************************************************
+
+
